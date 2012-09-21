@@ -1,0 +1,32 @@
+body {
+    color: #333;
+    font-family: Helvetica;
+    background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAL0lEQVQIW2NkYGD4D8QgwAilGRgjdh75v8LdBs4Hy4IEQQxkCbAWmARMEm4Osg4AMSIRBAwqvacAAAAASUVORK5CYII=);
+
+    .hero-unit {
+
+    }
+
+    .container {
+        h4 {
+            text-shadow: 2px 2px 2px #FFF;
+        }
+
+    }
+
+    .main-content {
+        background: #FFF;
+        
+        .box {
+            min-height: 300px;
+            background: #DCDCDC;
+        }
+
+    }
+
+
+
+    a {
+        color: #B0E0E6;
+    }
+}
