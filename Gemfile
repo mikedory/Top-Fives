@@ -6,8 +6,7 @@ gem 'unicorn'
 gem 'capistrano'
 gem 'json'
 gem 'jquery-rails'
-
-gem 'sqlite3'
+gem "mongo_mapper"
 
 
 # Gems used only for assets and not required
