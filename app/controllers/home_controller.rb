@@ -2,7 +2,7 @@ class HomeController < ApplicationController
   def index
     wat = params[:wat]
     @title = 'FOOLS'
-    @name = 
+    @name = Five.all
 
     if wat
         @wat = wat
